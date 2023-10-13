@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashanth Kumar M.
+- 👋 Hi, I’m Prashanth Kumar.
 - 👀 I'm a software Engineer based in Hyderabad, India.
 - 🌱 I’m currently pursuing master's in computer science at the university of southern mississippi, USA.
 - 💞️ I’m looking for a summer-2023 internship oppurtunities at USA.
